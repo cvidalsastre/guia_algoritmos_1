@@ -29,7 +29,6 @@ public class App {
         r.areaPerimetro();
         Rectangulo r2 = new Rectangulo(5, 5);   
         r2.areaPerimetro();
-        r2.perimetro()
 
 
     }
