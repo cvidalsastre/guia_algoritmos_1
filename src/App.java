@@ -7,6 +7,8 @@ import org.w3c.dom.css.Rect;
 import intro.Libro;
 import intro.Rectangulo;
 
+import entrada.EntradaConsola;
+
 public class App {
 
     // Intro persona
@@ -21,14 +23,20 @@ public class App {
 // Libro
         // Libro libro1 = new Libro("El precio del amor", "Cristian", 2021);
         // Libro libro2 = new Libro("El precio del amor", "Cristian");
-        // System.out.println(libro1.year);
+        // System.out.println(lib12321ro1.year);
         // System.out.println(libro2.year);
 
-        // Rectangulo
-        Rectangulo r = new Rectangulo(10, 20);
-        r.areaPerimetro();
-        Rectangulo r2 = new Rectangulo(5, 5);   
-        r2.areaPerimetro();
+// Rectangulo
+        // Rectangulo r = new Rectangulo(10, 20);
+        // r.areaPerimetro();
+        // Rectangulo r2 = new Rectangulo(5, 5);   
+        // r2.areaPerimetro();
+
+// EntradaConsola
+
+        // EntradaConsola entrada = new EntradaConsola(10);
+
+
 
 
     }
