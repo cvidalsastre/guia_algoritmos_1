@@ -2,12 +2,10 @@ import intro.Persona;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import org.w3c.dom.css.Rect;
 
 import intro.Libro;
 import intro.Rectangulo;
-
-import entrada.EntradaConsola;
+import intro.entrada.EntradaConsola;
 
 public class App {
 
@@ -34,7 +32,7 @@ public class App {
 
 // EntradaConsola
 
-        // EntradaConsola entrada = new EntradaConsola(10);
+        EntradaConsola entrada = new EntradaConsola(10);
 
 
 
